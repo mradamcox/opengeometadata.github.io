@@ -10,10 +10,10 @@ Aardvark has four fields in the "temporal" group. Having multiple temporal field
 
 | Field                 | Obligation |
 |:----------------------|:---------|
-| [Temporal Coverage](https://opengeometadata.github.io/docs/aardvarkSchema/temporal-coverage) | Suggested |
-| [Date Issued](https://opengeometadata.github.io/docs/aardvarkSchema/date-issued)             |           |
-| [Index Year](https://opengeometadata.github.io/docs/aardvarkSchema/index-year)               | Suggested |
-| [Date Range](https://opengeometadata.github.io/docs/aardvarkSchema/date-range)               |           |
+| [Temporal Coverage](temporal-coverage) | Suggested |
+| [Date Issued](date-issued)             |           |
+| [Index Year](index-year)               | Suggested |
+| [Date Range](date-range)               |           |
 
 
 ### Temporal Coverage
